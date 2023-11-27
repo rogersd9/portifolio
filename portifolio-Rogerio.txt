@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifolio Rogerio Dantas</title>
+</head>
+<body>
+    
+    <div style="width: 100%; height: 100%; position: relative; background: rgb(195, 244, 225)">
+        <div style="width: 342px; height: 24px; left: 974px; top: 49px; position: absolute">
+            <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Meus Serviços</div>
+            <div style="left: 142px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Fale Comigo</div>
+            <div style="left: 277px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Portfolio</div>
+        </div>
+        <div style="left: 160px; top: 40px; position: absolute; color: #070F18; font-size: 28px; font-family: Poppins; font-weight: 600; text-decoration: underline; word-wrap: break-word">Portfolio</div>
+        <div style="left: 892px; top: 205px; position: absolute; text-align: right; color: black; font-size: 55px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Olá, meu nome<br/>é Rogerio</div>
+        <div style="left: 924px; top: 391px; position: absolute; text-align: right; color: #575455; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 32px; word-wrap: break-word">Sou Técnico de Informática (T.I), gostaria de apresentar meu<br/>trabalho para você através deste portfólio.</div>
+        <div style="left: 148px; top: 1356px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Porfolio</div>
+        <div style="left: 148px; top: 1320px; position: absolute; text-align: center; color: #F75C4E; font-size: 16px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Conheça meu trabalho</div>
+        <div style="width: 180px; height: 48px; left: 1142px; top: 475px; position: absolute">
+            
+        </div>
+        <div style="width: 540px; height: 400px; left: 148px; top: 191px; position: absolute">
+            <div style="width: 390px; height: 400px; left: 0px; top: 0px; position: absolute; background: #C4C4C4; border-radius: 60px"></div>
+            <img style="width: 390px; height: 400px; left: 0px; top: 0px; position: absolute" src="./img/fotoperfil.jpg" />
+        </div>
+        <div style="width: 635.04px; height: 450px; left: 687px; top: 784px; position: absolute">
+            <div style="width: 635.04px; height: 450px; left: 0px; top: 0px; position: absolute; background: #C4C4C4; border-radius: 40px"></div>
+            <img style="width: 816.60px; height: 509.94px; left: -90.35px; top: -29.54px; position: absolute" src="./img/cabeamentorede.jpeg" />
+        </div>
+        <img style="width: 300px; height: 225px; left: 148px; top: 1471px; position: absolute; border-radius: 30px" src="./img/rackcomswitch.jpeg" />
+        <div style="left: 148px; top: 903px; position: absolute; color: black; font-size: 36px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Projeto e cabeamento<br/>de rede completo</div>
+        <div style="left: 148px; top: 873px; position: absolute; color: #F75C4E; font-size: 16px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Conheça Meu Trabalho</div>
+        <div style="left: 148px; top: 977px; position: absolute; color: #575455; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 32px; word-wrap: break-word"><br/>Estruturação completa,<br/>tanto em parede interna, como com canaletas ou calhas eletricas.</div>
+        <div style="width: 406px; height: 48px; left: 148px; top: 1081px; position: absolute">
+            
+            
+        </div>
+        <div style="width: 180px; height: 48px; left: 148px; top: 1149px; position: absolute">
+            
+        </div>
+        <img style="width: 339px; height: 225px; left: 545px; top: 1468px; position: absolute; border-radius: 30px" src="./img/rackcomtelefonia.jpeg" />
+        <img style="width: 340px; height: 225px; left: 982px; top: 1471px; position: absolute; border-radius: 30px" src="./img/centraltelefonica.jpeg" />
+        <div style="width: 210px; left: 160px; top: 657px; position: absolute; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 600; word-wrap: break-word"><br/></div>
+        
+        </div>
+        <div style="width: 99.45px; height: 30px; left: 1223px; top: 666px; position: absolute">
+            
+        <div style="width: 87.19px; height: 30px; left: 638px; top: 666px; position: absolute">
+            <div style="width: 24.29px; height: 22.76px; left: -0px; top: 7.24px; position: absolute; background: black"></div>
+            <div style="width: 75.12px; height: 29.85px; left: 12.07px; top: 0px; position: absolute; background: black"></div>
+        </div>
+        
+        
+        
+        <div style="left: 1092px; top: 2150px; position: absolute; color: #070F18; font-size: 20px; font-family: Poppins; font-weight: 600; word-wrap: break-word">Consultoria</div>
+    </div> 
+</body>
+</html>
